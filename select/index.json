@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ハロー",
+  "base_artist": "時速36km",
+  "createdAt": "2026-02-28T09:18:12.040040Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハロー・ミスター・モンキー",
+      "artist": "Arabesque",
+      "has_synced": true,
+      "path": "select/01_ハロー・ミスター・モンキー_Arabesque.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハロー、グッバイ",
+      "artist": "シャルロ",
+      "has_synced": false,
+      "path": "select/02_ハロー、グッバイ_シャルロ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハロー、グッバイ (stripped down)",
+      "artist": "シャルロ",
+      "has_synced": false,
+      "path": "select/03_ハロー、グッバイ_(stripped_down)_シャルロ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "＊ハロー、プラネット。",
+      "artist": "sasakure.UK feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/04_ハロー、プラネット。_sasakure.UK_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "＊ハロー、プラネット。",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/05_ハロー、プラネット。_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "＊ハロー、プラネット。",
+      "artist": "sasakure.UK feat.初音ミク",
+      "has_synced": true,
+      "path": "select/06_ハロー、プラネット。_sasakure.UK_feat.初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハロー・ハロー",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/07_ハロー・ハロー_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hello Planet [*ハロー、プラネット。]",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/08_Hello_Planet_[_ハロー、プラネット。]_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ハロー! ドラミちゃん",
+      "artist": "山野さと子",
+      "has_synced": false,
+      "path": "select/09_ハロー!_ドラミちゃん_山野さと子.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ハロー・アンド・グッドバイ",
+      "artist": "Junko Yagami",
+      "has_synced": false,
+      "path": "select/10_ハロー・アンド・グッドバイ_Junko_Yagami.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ハロー・グッバイ",
+      "artist": "Yoshie Kashiwabara",
+      "has_synced": true,
+      "path": "select/11_ハロー・グッバイ_Yoshie_Kashiwabara.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ハロー・グッバイ",
+      "artist": "柏原芳恵",
+      "has_synced": true,
+      "path": "select/12_ハロー・グッバイ_柏原芳恵.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "*ハロー、プラネット。",
+      "artist": "ささくれP(sasakure.UK)",
+      "has_synced": false,
+      "path": "select/13_ハロー、プラネット。_ささくれP(sasakure.UK).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "*ハロー、プラネット。",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/14_ハロー、プラネット。_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "＊ハロー、プラネット。",
+      "artist": "sasakure.UK feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/15_ハロー、プラネット。_sasakure.UK_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hello ハロー / いとこの来る日曜日",
+      "artist": "Flipper's Guitar",
+      "has_synced": false,
+      "path": "select/16_Hello_ハロー___いとこの来る日曜日_Flipper's_Guitar.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "＊ハロー、プラネット。 feat. 初音ミク",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/17_ハロー、プラネット。_feat._初音ミク_sasakure.UK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハロー",
+      "artist": "時速36km",
+      "has_synced": false,
+      "path": "select/pl_01_ハロー_時速36km.txt"
+    }
+  ]
+}
